@@ -1,0 +1,15 @@
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.AssemblyInfoInputs.cache
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.AssemblyInfo.cs
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.csproj.CoreCompileInputs.cache
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.sourcelink.json
+D:\mahesh\j21calculator\bin\Debug\net9.0\j21calculator.exe
+D:\mahesh\j21calculator\bin\Debug\net9.0\j21calculator.deps.json
+D:\mahesh\j21calculator\bin\Debug\net9.0\j21calculator.runtimeconfig.json
+D:\mahesh\j21calculator\bin\Debug\net9.0\j21calculator.dll
+D:\mahesh\j21calculator\bin\Debug\net9.0\j21calculator.pdb
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.dll
+D:\mahesh\j21calculator\obj\Debug\net9.0\refint\j21calculator.dll
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.pdb
+D:\mahesh\j21calculator\obj\Debug\net9.0\j21calculator.genruntimeconfig.cache
+D:\mahesh\j21calculator\obj\Debug\net9.0\ref\j21calculator.dll
